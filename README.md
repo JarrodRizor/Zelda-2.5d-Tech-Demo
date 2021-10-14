@@ -15,21 +15,20 @@ Either clone repository or download zip from GitHub. The ImpactJS Engine is open
 [ImpactJS](https://github.com/phoboslab/Impact)
 [TwoPointfive](https://github.com/phoboslab/TwoPointFive)
 
-cd FallingClyde
+```bash
+git@github.com:JarrodRizor/Zelda-2.5d-Tech-Demo.git
+```
 
-You can use either PHP or Python to run the web server.
+cd Zelda-2.5d-Tech-Demo (You can use either PHP or Python to run the web server)
+
 PHP
-
 php -S localhost:8888
-Python
 
+Python
 python3 -m http.server 8888
 
 open browser and naviagte to http://localhost:8888
 
-```bash
-git@github.com:JarrodRizor/Zelda-2.5d-Tech-Demo.git
-```
 ## Contributing
 While I appriciate any input and I know many developers could write cleaner and better code, I'm shelving this for a bit. If you wish to fork it and do your own thing, I'm 100% supportive and would love to see how you have improved the demo!
 
