@@ -1,5 +1,7 @@
 # Legend of Zelda Dungeon Tech Demo
 
+![title](https://raw.githubusercontent.com/JarrodRizor/Zelda-2.5d-Tech-Demo/master/media/misc/title.png)
+
 This is a simple Tech Demo of the first dungeon in the Legend of Zelda.
 I wanted to try and re-create as much as I could using ImpactJS TwoPointFive Plugin. 
 The game is available to play on [itch.io](https://jarrodrizor.itch.io/zelda-tech-demo).
