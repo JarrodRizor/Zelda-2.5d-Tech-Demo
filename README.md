@@ -34,7 +34,7 @@ While I appriciate any input and I know many developers could write cleaner and 
 
 ## Twitter
 Feel free to message me on Twitter if you have any questions.
-[Twitter](https://twitter.com/JarrodR87)
+[Twitter](https://twitter.com/Jrod_R87)
 
 
 ## License
