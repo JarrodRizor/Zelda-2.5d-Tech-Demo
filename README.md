@@ -11,7 +11,7 @@ Either clone repository or download zip from GitHub. The ImpactJS Engine is open
 [TwoPointfive](https://github.com/phoboslab/TwoPointFive)
 
 ```bash
-git clone git@github.com:JarrodRizor/FPS-Zelda-Dung-1.git
+git@github.com:JarrodRizor/Zelda-2.5d-Tech-Demo.git
 ```
 
 ## Usage
